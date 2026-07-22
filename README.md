@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-azevedo-smania/)
 
-### { } Sobre mim
+### 👾 Sobre mim
 
 - 🔭 Atualmente estou aprendendo: Node.js, React, WSL2, IA Agents.
 - 📫 Gmail: felipesmania1@gmail.com.
