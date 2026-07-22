@@ -79,6 +79,6 @@
     <img height="195" src="https://github-stats-extended.vercel.app/api?username=FelipeAzevedoS&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dracula" />
   </a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=FelipeAzevedoS&layout=compact&langs_count=5&theme=dracula">
-    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=FelipeAzevedoS&card_width=500&langs_count=5&theme=dracula" />
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=FelipeAzevedoS&layout=compact&langs_count=5&theme=dracula" />
   </a>
 </p>
